@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
-date: 2015
+image: img/recycledrive.jpeg
+title: "Recycle Drive Data Chart"
+date: 2021
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - Excel
+  - Sustainability
+  - JavaScript
 summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
 ---
 
