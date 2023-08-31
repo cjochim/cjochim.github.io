@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/clip-art-task-15.jpg
+image: img/nhspic.png
 title: "Bookkeeping NHS Fundraisers"
 date: 2020-2021
 published: true
