@@ -13,7 +13,7 @@ summary: "I helped organize a recycle drive involving all the grade levels (7th-
 ---
 
 <div class="text-center p-4">
-  <img width="600px" src="../img/recycledata.png
+  <img width="600px" src="../img/recycledata.png" class="img-thumbnail" >
 </div>
 
 During my school's spirit week, each grade level competed in donating the most recycled cans/bottles and money. Each bottle/can counts as 5 cents added to the grade level's total. To motivate students to donate, each student in the winning grade level earns a free boba. The recycle drive was a success with a total donation of $4,273.81 to a selected charity. 
