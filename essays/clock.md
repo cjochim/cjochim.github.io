@@ -9,10 +9,19 @@ labels:
   - JavaScript
   - Software Engineering
 ---
-During the first week of ICS 314, I was introduced to the concept of athletic software engineering. The goal of athletic software engineering is to develop skills in efficiency and speed. To develop and strengthen athletic engineering skills, practice WODs are given which is helpful because the more practice, the better. 
 
-Initially, I thought performing a timed programming prompt could induce sloppy code. However, with more practice, fluency and good quality code can result from athletic engineering. The concept of athletic software engineering generates trepidation to me as a new coder. The timer counting down to zero is my opponent, and anxiety and “coding block” are my obstacles. Although the practice WODs help, I fear that in an actual WOD, my mind will go blank. 
+## What is Athletic Software Engineering?
+During the first week of ICS 314, I was introduced to the concept of athletic software engineering. The goal of athletic software engineering is to develop skills in efficiency and speed, involving high intensity, time-restricted, and stress-inducing prompts. Developed by Professor Philip Johnson, his pedagogy of "Athletic Software Engineering" benefitted students in preperation for interships and job interviews. This approach of software engineering can be stressful yet rewarding. 
 
-Despite the worrying, I have come to think that just as the name implies, athletic software engineering is like a sport. With more practice and developing new skills, I will eventually know how to approach a prompt and solve it within a given time limit. Overcoming the time limit is rewarding, and trying to beat a personal record can be fun yet stressful.
+## Athletes must exercise and go through drills
+To test one's atheltic software engineering skills, a workout of the day (WOD) is given. Practice WODs are assigned as homework to develop and strengthen skills and prepare for the WOD. The practice WOD assignments must be timed and can be repeated until one is satisfied with his ior her results. 
+
+Unlike traditional homework assignments, the practice WODs are provided with solutions, not for cheating but for studying. Initially, I thought performing a timed programming prompt induces sloppy code. However, with more practice, fluency and good quality code can result from time-constrained prompts. 
+
+## "Coder's Block"
+Admittedly, the concept of athletic software engineering generates trepidation to me as a new coder. The timer counting down to zero is my opponent, and anxiety and “coder's block” are my obstacles. Although the practice WODs help, I fear that in an actual WOD, my mind will go blank. 
+
+## Practice, practice, practice!
+Despite the worrying, I have come to think that just as the name implies, athletic software engineering is like a sport. With more practice and developing new skills, I will eventually know how to approach a prompt and solve it within a given time limit. 
 
 
