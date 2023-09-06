@@ -4,7 +4,7 @@ type: essay
 title: "Asking The Smart Way"
 # All dates must be 2023-09-05 format!
 date: 2023-09-05
-published: true
+published: false
 labels:
   - Reflection
   - StackOverflow
