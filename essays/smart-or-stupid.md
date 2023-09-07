@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "HELP! How do I ask the Smart Way? Am I Asking the Stupid Way?"
+title: "HELP! How do I Ask the Smart Way? Am I Asking the Stupid Way?"
 # All dates must be 2023-09-05 format!
 date: 2023-09-05
 published: true
