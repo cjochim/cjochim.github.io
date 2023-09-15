@@ -11,7 +11,7 @@ labels:
 ---
 
 ## What is Athletic Software Engineering?
-During the first week of ICS 314, I was introduced to the concept of athletic software engineering. The goal of athletic software engineering is to develop skills in efficiency and speed, involving high intensity, time-restricted, and stress-inducing prompts. Developed by Professor Philip Johnson, his pedagogy of "Athletic Software Engineering" benefitted students in preparation for internships and job interviews. This approach of software engineering can be stressful yet rewarding. 
+During the first week of ICS 314, I was introduced to the concept of athletic software engineering. The goal of athletic software engineering is to develop skills in efficiency and speed, involving high intensity, time-restricted, and stress-inducing prompts. Developed by Professor Philip Johnson, his pedagogy of "Athletic Software Engineering" benefitted past students, preparing the students for internships and job interviews. This approach of software engineering can be stressful yet rewarding. 
 
 ## Athletes must exercise and go through drills
 To test one's athletic software engineering skills, a workout of the day (WOD) is given. Practice WODs are assigned as homework to develop and strengthen skills and prepare for the WOD. The practice WOD assignments must be timed and can be repeated until one is satisfied with his for her results. 
