@@ -9,8 +9,7 @@ labels:
   - ESLint
   - IntelliJ
   - Reflection
-  - Improvement
-	
+  - Improvement	
 ---
 
 ## Follow the Rules!
