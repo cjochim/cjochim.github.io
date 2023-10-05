@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Framing my Future with UI Frameworks"
+title: "(frame)Working with UI"
 # All dates must be 2023-09-05 format!
 date: 2023-10-04
 published: true
