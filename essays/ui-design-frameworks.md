@@ -52,10 +52,9 @@ After learning the basics of UI design and going through the treacherous journey
 
 Initially, I thought everything in Bootstrap is simply copy and paste, however, Bootstrap and other UI frameworks involve learning how and when to utilize the tools. Similar to learning a new language, I had to research the function of each component, layout, utilities, etc. Honestly, despite completing the Bootstrap crash course and reviewing the material, I had a much harder time learning how to implement Bootstrap than implementing my own CSS. I thought, “Bootstrap is supposed to make my life easier but why am I struggling so much? Is the problem me again?”
 
-Frustrated and confused, I continued to review and practice with Bootstrap. I admired Bootstrap’s navbar design the most, but I deeply struggled with the navbar – my nav-items did not align correctly, the spacing was off, I could not fit an image to size, etc. Once I got the hang of it, I started to enjoy and appreciate Bootstrap. For instance, referring back to columns, Bootstrap already has a built-in column feature, “col,” so no need to create a column design, yay! Moreover, I noticed how uniformed and “cleaner” my web page looked compared to not using any UI framework.
+Frustrated and confused, I continued to review and practice with Bootstrap. I admired Bootstrap’s navbar design the most, but I deeply struggled with the navbar – my nav-items did not align correctly, the spacing was off, I could not fit an image to size, etc. Once I got the hang of it, I started to enjoy and appreciate Bootstrap. For instance, referring back to columns, Bootstrap already has a built-in column feature, “col,” so no need to create a column design, yay! Moreover, I noticed how uniformed and “cleaner” my web page looked compared to not using any UI framework. The examples demonstrate a web page with Bootstrap (left) and a web page without UI framework (right). 
 
 <div class="text-center">
-<img width="400px" class="rounded pe-4" src="../img/bootstrapbrowserhist.png">
 <img width="400px" class="rounded pe-4" src="../img/cssbrowserhist.png">
 </div>
 
