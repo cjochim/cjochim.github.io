@@ -54,6 +54,6 @@ Initially, I thought everything in Bootstrap is simply copy and paste, however, 
 
 Frustrated and confused, I continued to review and practice with Bootstrap. I admired Bootstrap’s navbar design the most, but I deeply struggled with the navbar – my nav-items did not align correctly, the spacing was off, I could not fit an image to size, etc. Once I got the hang of it, I started to enjoy and appreciate Bootstrap. For instance, referring back to columns, Bootstrap already has a built-in column feature, “col,” so no need to create a column design, yay! Moreover, I noticed how uniformed and “cleaner” my web page looked compared to not using any UI framework.
 
-<img width="300px" class="rounded float-start pe-4" src="img/37D1AD6D-B2ED-4FCB-A5DB-9DA87B4AA407_1_201_a.jpeg">
+<img width="300px" class="rounded float-start pe-4" src="../img/37D1AD6D-B2ED-4FCB-A5DB-9DA87B4AA407_1_201_a.jpeg">
 
 Bootstrap is indeed difficult because of the numerous content. However, once I got through the learning barrier, Bootstrap is a useful tool in UI design, saving lots of time and providing a “skeleton” of a web page. Bootstrap is one of many UI frameworks, so I am really curious on how the other UI frameworks function such as Semantic UI. I noticed that Bootstrap and Semantic UI are evenly biased, so it’s up to personal preference. After I fully grasp Bootstrap, Semantic UI will definitely be my next UI framework that I will learn. 
