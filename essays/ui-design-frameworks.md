@@ -54,11 +54,11 @@ Initially, I thought everything in Bootstrap is simply copy and paste, however, 
 
 Frustrated and confused, I continued to review and practice with Bootstrap. I admired Bootstrap’s navbar design the most, but I deeply struggled with the navbar – my nav-items did not align correctly, the spacing was off, I could not fit an image to size, etc. Once I got the hang of it, I started to enjoy and appreciate Bootstrap. For instance, referring back to columns, Bootstrap already has a built-in column feature -- “col” -- so no need to create a column design, yay! Moreover, I noticed how uniformed and “cleaner” my web page looked compared to not using any UI framework. 
 
-The examples below demonstrate a web page with Bootstrap (left) and a web page without any UI framework (right). Both web pages look similar in terms of components but let's take a look at the navbars. The navbar of the web page without UI framework clearly looks more simple than the navbar of the web page using Bootstrap. However, creating the "simple" navbar took twice as long as creating the Bootstrap navbar, and the Bootstrap navbar has more items and sections. 
+The examples below demonstrate a web page with Bootstrap (left) and a web page without any UI framework (right). Both web pages look similar in terms of structure but let's take a look at the navbars. The navbar of the web page without UI framework clearly looks more simple than the navbar of the web page using Bootstrap. However, creating the "simple" navbar took twice as long as creating the Bootstrap navbar, and the Bootstrap navbar has more items and sections. 
 
 <div class="text-center">
-<img width="400px" class="rounded pe-4" src="../img/bootstrapknb.png">
 <img width="400px" class="rounded pe-4" src="../img/bootstrapbrowserhist.png">
+<img width="400px" class="rounded pe-4" src="../img/cssbrowserhist.png">
 </div>
 
 ## But wait, there's more!
