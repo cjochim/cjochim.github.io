@@ -14,9 +14,9 @@ labels:
 
 ## UI Design: This is What I Want to Do. 
 
-From my first computer science class up until now, the majority of what I learned in computer science was backend development. Honestly, I struggle with backend – for-loops, arrays, objects, algorithms etc. When the struggled outweighed the passion and curiosity, I questioned, “Is this really something I want to do in the future?” The new materials introduced to me never sparked any interest. I only learned for the sake of getting through the course.
+From my first computer science class up until now, the majority of what I learned in computer science was backend development. Honestly, I struggle with backend – for-loops, arrays, objects, algorithms etc. When the struggle outweighed the passion and curiosity, I questioned, “Is this really something I want to do in the future?” The new materials introduced to me never sparked any interest. I only learned for the sake of getting through the course.
 
-However, in my software engineering class, the upcoming module was “UI Design (Basics)” which is learning how to design web pages using HTML and CSS. Admittedly, I felt for the first time inclined to learn more about a topic. For one of the assignments in the UI design module, I had to complete a introductory HTML and CSS course which is supposedly 5 hours long, but I didn't mind the 5 hours if I get to learn how to design a web page. 
+However, in my software engineering class, the upcoming module was “UI Design (Basics)” which is learning how to design web pages using HTML and CSS. Admittedly, I felt for the first time inclined to learn more about a topic. For one of the assignments in the UI design module, I had to complete an introductory HTML and CSS course which is supposedly 5 hours long, but I didn't mind the 5 hours if I get to learn how to design a web page. 
 
 ## HTML & CSS : Canvas & Palette
 
@@ -54,7 +54,7 @@ Initially, I thought everything in Bootstrap is simply copy and paste, however, 
 
 Frustrated and confused, I continued to review and practice with Bootstrap. I admired Bootstrap’s navbar design the most, but I deeply struggled with the navbar – my nav-items did not align correctly, the spacing was off, I could not fit an image to size, etc. Once I got the hang of it, I started to enjoy and appreciate Bootstrap. For instance, referring back to columns, Bootstrap already has a built-in column feature -- “col” -- so no need to create a column design, yay! Moreover, I noticed how uniformed and “cleaner” my web page looked compared to not using any UI framework. 
 
-The examples below demonstrate a web page with Bootstrap (left) and a web page without any UI framework (right). Both web pages have the same components such as the navbar and columns but let's take a look at the navbars. The navbar of the web page without UI framework clearly looks more simple than the navbar of the web page using Bootstrap. However, with my experience, creating the "simple" navbar took twice as long as creating the Bootstrap navbar, and the Bootstrap navbar offers more items and sections. 
+The examples below demonstrate a web page with Bootstrap (left) and a web page without any UI framework (right). Both web pages have the same components such as the navbar and columns but let's take a look at the navbars. The navbar of the web page without UI framework clearly looks simpler than the navbar of the web page using Bootstrap. However, with my experience, creating the "simple" navbar took twice as long as creating the Bootstrap navbar, and the Bootstrap navbar offers more items and sections. 
 
 <div class="text-center">
 <img width="400px" class="rounded pe-4" src="../img/bootstrapbrowserhist.png">
@@ -63,4 +63,4 @@ The examples below demonstrate a web page with Bootstrap (left) and a web page w
 
 ## But wait, there's more!
 
-Bootstrap is indeed difficult due to the numerous amount of content. However, once I got through the learning barrier, Bootstrap is a useful tool for UI design, saving a good deal of time and providing a “skeleton” of a web page. Before learning about Bootstrap, I noticed my CSS appeared to lack a few characteristics and structures of a web page, so Bootstrap introduced me to more interesting features such as inserting icons and customizing buttons. Bootstrap is one of many UI frameworks, so I am really curious on how the other UI frameworks function such as Semantic UI. I noticed that Bootstrap and Semantic UI are evenly biased, so it’s up to personal preference. After fully understanding Bootstrap, I hope to learn Semantic UI for my next UI framework. 
+Bootstrap is indeed difficult due to the amount of content. However, once I got through the learning barrier, Bootstrap is a useful tool for UI design, saving a good deal of time and providing a “skeleton” of a web page. Before learning about Bootstrap, I noticed my CSS appeared to lack a few characteristics and structures of a web page, so Bootstrap introduced me to more interesting features such as inserting icons and customizing buttons. Bootstrap is one of many UI frameworks, so I am really curious on how the other UI frameworks function such as Semantic UI. I noticed that Bootstrap and Semantic UI are evenly biased, so it’s up to personal preference. After fully understanding Bootstrap, I hope to learn Semantic UI for my next UI framework. 
