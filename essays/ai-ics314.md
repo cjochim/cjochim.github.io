@@ -46,10 +46,6 @@ Prior to using ChatGPT, I would spend a lot of time scrolling through stackoverf
 
 With html, I would ask for coding examples based on what I want. Though Bootstrap provides many examples, ChatGPT provides a more accurate example of what I want. In addition, while learning Underscore functions, I referred to the underscore web page a lot, but the examples provided on the webpage confused my small brain. I would transition to ChatGPT to explain the code more in depth, and I appreciate how ChatGPT breaks down each line and component of code. ChatGPT is also versatile such that it can change the explanation of the code until I fully understand. 
 
-### Documenting Code
+### Documenting Code, Quality Assurance, and Other Uses in ICS 314 not Listed
 
-I have not documented code but when I do, I would rather document my own code because I understand my code the best. 
-
-### Other Uses in ICS 314 not Listed
-
-So far, I have not encountered other uses in ICS 314 that have not been mentioned above. 
+I have not documented code but when I do, I would rather document my own code because I understand my code enough to explain it thoroughly. For quality assurance, I actually never used ChatGPT because I would refer to the ESLint errors in IntelliJ. Lastly, I have not encountered other uses in ICS 314 that have not been mentioned above.
