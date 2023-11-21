@@ -41,3 +41,15 @@ ChatGPT is a useful tool for learning because it is like a personal tutor. I can
 ### Questions
 
 Prior to using ChatGPT, I would spend a lot of time scrolling through stackoverflow or google search to find the specific solution to my question. I appreciate how ChatGPT is personalized for me. Usually when I search for a question on google search, solutions to similar questions will appear but not solutions to my exact question. ChatGPT directly responds to my question. Although the solutions that ChatGPT provides may not be 100% accurate, I save a lot of time looking for a solution. 
+
+### Providing Coding Examples, Explaining and Writing Code
+
+With html, I would ask for coding examples based on what I want. Though Bootstrap provides many examples, ChatGPT provides a more accurate example of what I want. In addition, while learning Underscore functions, I referred to the underscore web page a lot, but the examples provided on the webpage confused my small brain. I would transition to ChatGPT to explain the code more in depth, and I appreciate how ChatGPT breaks down each line and component of code. ChatGPT is also versatile such that it can change the explanation of the code until I fully understand. 
+
+### Documenting Code
+
+I have not documented code but when I do, I would rather document my own code because I understand my code the best. 
+
+### Other Uses in ICS 314 not Listed
+
+So far, I have not encountered other uses in ICS 314 that have not been mentioned above. 
