@@ -53,3 +53,7 @@ I have not documented code but when I do, I would rather document my own code be
 ## Impact on Learning and Understanding
 
 Technology is meant for making our lives easier not harder, right? Without AI, I would not get enough sleep. AI positively impacts my learning and production experience, providing explanations and examples within seconds. Because AI can readily give the full solution, the learning process may backfire depending on how the tool is used. I have to periodically ask myself if I understand the code because sometimes, I catch myself in a trance of copying and pasting. I tend to get overwhelmed by long, complex prompts and I do not know where to begin, so AI provides a jump start. 
+
+## Practical Applications
+
+For software engineering, AI definitely speeds up the process of production and debugging, which give more time for producing new ideas! There are many uses of AI outside of ICS 314. Although AI and software engineers go hand-in-hand, AI is not limited to software engineers or people in teachnology; almost everyone with an Apple iPhone interacts with AI (Siri) without even knowing. Snapchat released a new feature of a personal AI friend so the user can talk to the “My AI” as a friend, interesting yet strange… To be honest, I used ChatGPT to help me write the first portion of this essay but then ChatGPT crashed, so I asked “My AI” friend on Snapchat to give me a few pointers! 
