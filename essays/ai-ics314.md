@@ -57,3 +57,10 @@ Technology is meant for making our lives easier not harder, right? Without AI, I
 ## Practical Applications
 
 For software engineering, AI definitely speeds up the process of production and debugging, which give more time for producing new ideas! There are many uses of AI outside of ICS 314. Although AI and software engineers go hand-in-hand, AI is not limited to software engineers or people in teachnology; almost everyone with an Apple iPhone interacts with AI (Siri) without even knowing. Snapchat released a new feature of a personal AI friend so the user can talk to the “My AI” as a friend, interesting yet strange… To be honest, I used ChatGPT to help me write the first portion of this essay but then ChatGPT crashed, so I asked “My AI” friend on Snapchat to give me a few pointers! 
+
+## Challenges & Opportunities
+
+I am not familiar with the other AI sources like Github Copilot or Bard to discuss the overall limitations of AI in software engineering. However, I noticed a few minor limitations with ChatGPT. For example, ChatGPT does not provide references from outside sources, so sometimes I would question the credibility of each response. I have not encountered any major limitations or challenges with using AI throughout my ICS 314 journey. I believe that ChatGPT has the capability of answering any given prompt, but the answers provided may not always be what I am looking for. Therefore, ChatGPT is beneficial towards straightforward problems but with a complex problem, the problem needs to be broken down into simpler components. 
+
+I can’t think of specific opportunities for further integrating AI in software engineering education, but I appreciate my software engineering class embracing the use of AI. Because ICS 314 contains a heavy workload, utilizing AI as an assistance transforms software engineering education into a more enjoyable and manageable environment. 
+
