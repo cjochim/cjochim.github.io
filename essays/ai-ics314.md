@@ -49,3 +49,8 @@ With html, I would ask for coding examples based on what I want. Though Bootstra
 ### Documenting Code, Quality Assurance, and Other Uses in ICS 314 not Listed
 
 I have not documented code but when I do, I would rather document my own code because I understand my code enough to explain it thoroughly. For quality assurance, I actually never used ChatGPT because I would refer to the ESLint errors in IntelliJ. Lastly, I have not encountered other uses in ICS 314 that have not been mentioned above.
+
+## Impact on Learning and Understanding
+
+Technology is meant for making our lives easier not harder, right? Without AI, I would not get enough sleep. AI positively impacts my learning and production experience, providing explanations and examples within seconds. Because AI can readily give the full solution, the learning process may backfire depending on how the tool is used. I have to periodically ask myself if I understand the code because sometimes, I catch myself in a trance of copying and pasting. I tend to get overwhelmed by long, complex prompts and I do not know where to begin, so AI provides a jump start. ![image](https://github.com/cjochim/cjochim.github.io/assets/143489196/efc272d7-1e05-4b4a-8662-6c4f8c55e043)
+
