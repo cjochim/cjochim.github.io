@@ -71,3 +71,7 @@ Personally, I prefer traditional teaching methods due to the learning structure,
 ## Future Considerations
 
 Because AI will continue to evolve, I question whether there will be more or less opportunities in the technology field. Knowing AI can do the job, will programmers or software engineers still be in demand? In terms of software engineering education, I believe the future of AI will provide more opportunities than challenges for students. More students are interested in technology and software engineering, but there might not be enough professors to accommodate the students. Rather than waitlisting students for a class, a flipped classroom style with AI assisting the students can be an alternative.
+
+## Conclusion
+
+Overall, AI rerouted my learning journey in the best way. Either my first or last resort, AI assisted me with my ICS 314 projects, WODs, essays, and assignments. Despite the stigma received, AI does not have an end and will continue to evolve. Rather than giving the cold shoulder to AI, students and instructors need to embrace AI and learn how to integrate AI in the learning environment instead. AI offers opportunities to students in terms of learning and jobs. Therefore, I support integrating AI in the Software Engineering course, but AI should be taught as a tool and not as a solution. 
