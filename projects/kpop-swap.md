@@ -9,6 +9,5 @@ labels:
   - Collaboration
   - App Development
   - Low-Code to No-Code
-  - Software
 summary:""
 ---
