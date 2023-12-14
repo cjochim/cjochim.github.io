@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "cjochim", "url": "http://github.com/cjochim" },
-      { "network": "linkedin", "username": "cjochim", "url": "http://linkedin.com/in/cjochim" }
+      { "network": "linkedin", "username": "Catelyn Jochim", "url": "https://www.linkedin.com/in/catelyn-jochim" }
     ]
   },
   "interests": [
@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "Java", "Javascript" ]
+      "keywords": [ "HTML", "CSS", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
