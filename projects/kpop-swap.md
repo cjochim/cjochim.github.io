@@ -29,6 +29,4 @@ Since we could create any application, I pitched an idea. Are you familiar with 
 
 Unfortunately, I do not have the link and code to the app – I asked my mentor, but I have not received a response at the moment. Due to limited time, we could only implement the trading function where the user can search, request a trade, and post a trade for a photocard. These functions did not require code, shocking right? I noticed that the App Engine is similar to Bootstrap, where there are functions created and I use those functions as a template or tool. My group and I utilized these functions and inputted the functions into a “workflow” to implement the app. 
 
-<img width="300px" class="rounded" src="../img/sn-groupphoto.jpeg" align="left">
-
 At the end of the workshop, each group had to present their app, and the best app was voted for. I presented my group’s app, and everyone enjoyed the presentation! As a result, my group’s app was voted 1st place by our peers. This workshop was my first experience in a work collaboration environment. I enjoyed working with peers around my age and level of knowledge and with adults in the IT field. 
