@@ -8,7 +8,7 @@ published: true
 labels:
   - Collaboration
   - Web Development
-summary: ""
+summary: "For my ICS 314 final project, I collaborated with three classmates, and we developed a website called Yummy Foo where students can find, share, and learn recipes!"
 ---
 <div class="text-center p-4">
   <img width="600px" src="../img/yummyfoo-home" class="img-thumbnail" >
