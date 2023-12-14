@@ -8,7 +8,7 @@ published: true
 labels:
   - Collaboration
   - Web Development
-summary: "For my ICS 314 final project, I collaborated with three classmates, and we developed a website called Yummy Foo where students can find, share, and learn recipes!"
+summary: "For my ICS 314 final project, I collaborated with four classmates, and we developed a website called Yummy Foo where students can find, share, and learn recipes!"
 ---
 <img align="left" height="400px" src="../img/yummyfoo-home.png" style="margin-right: 20px;">
 For my ICS 314 final project, I collaborated with three classmates, and we developed an application called [Yummy Foo](https://eat-sleep-fortnite-repeat.github.io/eat-sleep-foo-repeat.github.io/). The goal of Yummy Foo is to create an information hub for UH Manoa students where they can find, share, and learn recipes that will fit within the budget and convenience of a college student. The outcome of the project demonstrated my capability of utilizing IntelliJ IDEA, basic JavaScript, configuration management tools and techniques, HTML and CSS, and Meteor Framework. In addition, because Yummy Foo was my first group project, I experienced collaborating efficiently in a team.
