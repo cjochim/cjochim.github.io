@@ -11,7 +11,7 @@ labels:
   - Low-Code to No-Code
 summary: "During a workshop hosted by ServiceNow, I worked in a group and implemented a low-code to no-code trading application called K-Pop Swap."
 ---
-<div class="justify-content-center"><img width="450px" class="rounded" src="../img/servicenow-logo.png"></div>
+<div class="row justify-content-center"><div class="col-5"><img width="450px" class="rounded" src="../img/servicenow-logo.png"></div></div>
 I spent a few days at the AFCEA Hawaii TechNet Indo-Pacific STEM workshop hosted by ServiceNow. ServiceNow is a software company that “offers solutions for IT service and operations management, the employee and customer experiences, low-code and hyper-automation, and a whole lot more—all built on a single, unifying platform that eliminates silos.” Despite having no knowledge of ServiceNow, I learned how to implement an application using low-code to no-code software. At the end of the workshop, the goal was to build a no-code application utilizing ServiceNow’s App Engine. I collaborated with three other people in the workshop and a mentor who works at ServiceNow. 
 
 <div class="row justify-content-center py-2">
