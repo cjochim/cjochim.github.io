@@ -37,4 +37,4 @@ My prior experiences involved mimicking an image of a website page without the l
   </div>
 </div>
 
-Overall, my experience of learning Bootstrap was challenging yet helpful, further explained in my [essay]( https://cjochim.github.io/essays/ui-design-frameworks.html) on UI design frameworks. I did not mimic the website perfectly, but I copied the website the best I could utilizing Bootstrap, and, in my opinion, it looks great! Because I enjoyed working on this experience, I realized that I am interested in front-end development and UI design. 
+Overall, my experience of learning Bootstrap was challenging yet helpful, further explained in my [essay](https://cjochim.github.io/essays/ui-design-frameworks.html) on UI design frameworks. I did not mimic the website perfectly, but I copied the website the best I could utilizing Bootstrap, and, in my opinion, it looks great! Because I enjoyed working on this experience, I realized that I am interested in front-end development and UI design. 
