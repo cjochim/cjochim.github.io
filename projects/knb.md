@@ -15,11 +15,11 @@ summary: "Using UI Frameworks specifically Bootstrap 5, I recreated Kitt and Bun
 In ICS 314, I learned about UI design. More specifically, I learned how to use the HTML, CSS, and Bootstrap 5 framework to design usable, responsive, and attractive web pages. In a series of experiences, I was guided through how to rebuild a web page using Bootstrap 5 so with that knowledge, I recreated a site of my choosing. The website I chose to recreate was my friend’s small business, [Kitt & Bunn Supply Co.](https://www.kittandbunnsupply.co/)
 
 <div class="row">
-  <div class="col">
-    <img width="450px" align="left" class="rounded pe-4" src="../img/knb-actual.png" style="padding-top: 5px;">
+  <div class="col-5">
+    <img width="450px" align="left" class="rounded" src="../img/knb-actual.png">
   </div>
-  <div class="col">
-    <img width="450px" align="right" class="rounded pe-4" src="../img/knb2-actual.png" style="padding-top: 5px;">
+  <div class="col-5">
+    <img width="450px" align="right" class="rounded" src="../img/knb2-actual.png">
   </div>
 </div>
 <div class="row">
