@@ -12,13 +12,13 @@ labels:
 
 # What is AI in Education?
 
-AI’s transformative impact on the world of education revolutionized various aspects of learning. AI can aid in many educational functions such as detecting plagiarism, offering guidance on a given topic, providing feedback, etc. However, a stigma arises when AI is perceived as a solution rather than a tool. For example, (website) is utilized to write essays for students. This method saves a lot of “precious” time for a student who wants to avoid writing countless pages in a writing class. I hope my sarcasm is noticeable because using AI as a solution for writing an entire essay is not the way to go. Instead, AI should be utilized as a tool. Rather than writing an entire essay, AI can be used to expand and spark new ideas. 
+AI’s transformative impact on the world of education revolutionized various aspects of learning. AI can aid in many educational functions such as detecting plagiarism, offering guidance on a given topic, providing feedback, etc. However, a stigma arises when AI is perceived as a solution rather than a tool. For example, (website) is utilized to write essays for students. &lt;sarcasm&gt;This method saves a lot of precious time for a student who wants to avoid writing countless pages in a writing class.&lt;/sarcasm&gt; Using AI as a solution for writing an entire essay is not the way to go. Instead, AI should be utilized as a tool. Rather than writing an entire essay, AI can be used to expand and spark new ideas. 
 
 In addition, AI seems to have two sides of opinions, those of reject and those of accept. Moreover, I thought all professors would condemn AI. When I read the themes in the ICS 314 (Software Engineering I) course description, I was surprised to see that AI tools like ChatGPT and GitHub Copilot are embraced in software engineering. As the course progressed, I finally understood why AI is accepted and even encouraged. 
 
 # Experiencing AI (ChatGPT) in ICS 314
 
-Before taking ICS 314, I attached AI with a stigma because I believed that relying on AI contributed to academic dishonesty and that students who use AI truly did not understand the material. Thus, I avoided AI until the start of ICS 314. How did I start using AI, specifically ChatGPT? Well, I will explain my experiences down below but after using ChatGPT for the first time, I have no guilt or regrets. 
+Before taking ICS 314, I attached AI with a stigma because I believed that relying on AI contributed to academic dishonesty and that students who use AI truly did not understand the material. Thus, I avoided AI until the start of ICS 314. How did I start using AI, specifically [ChatGPT](https://chat.openai.com/)? Well, I will explain my experiences down below but after using ChatGPT for the first time, I have no guilt or regrets. 
 
 ### WODS – Experience, In-class Practice, & In-class
 
@@ -40,11 +40,11 @@ ChatGPT is a useful tool for learning because it is like a personal tutor. I can
 
 ### Questions
 
-Before using ChatGPT, I would spend a lot of time scrolling through StackOverflow or Google search to find the specific solution to my question. I appreciate how ChatGPT is personalized for me. Usually when I search for a question on Google search, solutions to similar questions will appear but not solutions to my exact question. ChatGPT directly responds to my question. Although the solutions that ChatGPT provides may not be 100% accurate, I save a lot of time looking for a solution. 
+Before using ChatGPT, I would spend a lot of time scrolling through Stack Overflow or Google search to find the specific solution to my question. I appreciate how ChatGPT is personalized for me. Usually when I search for a question on Google search, solutions to similar questions will appear but not solutions to my exact question. ChatGPT directly responds to my question. Although the solutions that ChatGPT provides may not be 100% accurate, I save a lot of time looking for a solution. 
 
 ### Providing Coding Examples, Explaining and Writing Code
 
-With HTML, I would ask for coding examples based on what I want. Though Bootstrap provides many examples, ChatGPT provides a more accurate example of what I want. In addition, while learning Underscore functions, I referred to the underscore web page a lot, but the examples provided on the webpage confused my small brain. I would transition to ChatGPT to explain the code more in-depth, and I appreciate how ChatGPT breaks down each line and component of code. ChatGPT is also versatile such that it can change the explanation of the code until I fully understand. 
+With HTML, I would ask for coding examples based on what I want. Though Bootstrap provides many examples, ChatGPT provides a more detailed example of what I want. In addition, while learning Underscore functions, I referred to the underscore web page a lot, but the examples provided on the webpage confused my small brain. I would transition to ChatGPT to explain the code more in-depth, and I appreciate how ChatGPT breaks down each line and component of code. ChatGPT is also versatile such that it can change the explanation of the code until I fully understand. 
 
 ### Documenting Code, Quality Assurance, and Other Uses in ICS 314 not Listed
 
@@ -60,7 +60,7 @@ For software engineering, AI speeds up the process of production and debugging, 
 
 # Challenges & Opportunities
 
-I am not familiar with the other AI sources like Github Copilot or Bard to discuss the overall limitations of AI in software engineering. However, I noticed a few minor limitations with ChatGPT. For example, ChatGPT does not provide references from outside sources, so sometimes I would question the credibility of each response. I have not encountered any major limitations or challenges with using AI throughout my ICS 314 journey. I believe that ChatGPT has the capability of answering any given prompt, but the answers provided may not always be what I am looking for. Therefore, ChatGPT is beneficial for straightforward problems but with a complex problem, the problem needs to be broken down into simpler components. 
+I am not familiar with the other AI sources like GitHub Copilot or Bard to discuss the overall limitations of AI in software engineering. However, I noticed a few minor limitations with ChatGPT. For example, ChatGPT does not provide references from outside sources, so sometimes I would question the credibility of each response. I have not encountered any major limitations or challenges with using AI throughout my ICS 314 journey. I believe that ChatGPT has the capability of answering any given prompt, but the answers provided may not always be what I am looking for. Therefore, ChatGPT is beneficial for straightforward problems but with a complex problem, the problem needs to be broken down into simpler components. 
 
 I can’t think of specific opportunities for further integrating AI in software engineering education, but I appreciate my software engineering class embracing the use of AI. Because ICS 314 contains a heavy workload, utilizing AI as an assistance transforms software engineering education into a more enjoyable and manageable environment. 
 
