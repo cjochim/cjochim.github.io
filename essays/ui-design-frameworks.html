@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="(frame)Working with UI Design | Catelyn Jochim | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/cjochim.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Catelyn Jochim | Professional Portfolio">
+    <meta property="og:url" content="https://cjochim.github.io/essays/ui-design-frameworks.html">
+    <meta property="og:title" content="(frame)Working with UI Design | Catelyn Jochim | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/cjochim.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>(frame)Working with UI Design | Catelyn Jochim | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Catelyn Jochim</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">(frame)Working with UI Design</h1>
+  <span class="date">04 Oct 2023</span>
+  <hr>
+  <h2 id="ui-design-this-is-what-i-want-to-do">UI Design: This is What I Want to Do.</h2>
+
+<p>From my first computer science class up until now, the majority of what I learned in computer science was backend development. Honestly, I struggle with the backend – for-loops, arrays, objects, algorithms, etc. When the struggle outweighed the passion and curiosity, I questioned, “Is this something I want to do in the future?” The new materials introduced to me never sparked any interest. I only learned for the sake of getting through the course.</p>
+
+<p>However, in my software engineering class, the upcoming module was “UI Design (Basics)” which is learning how to design web pages using HTML and CSS. Admittedly, I felt for the first time inclined to learn more about a topic. For one of the assignments in the UI design module, I had to complete an introductory HTML and CSS course which is supposedly 5 hours long, but I didn’t mind the 5 hours if I got to learn how to design a web page.</p>
+
+<h2 id="html--css--canvas--palette">HTML &amp; CSS : Canvas &amp; Palette</h2>
+
+<p>After completing the introductory course, I compared UI designing with painting: HTML is the canvas and CSS is the palette. When the CSS “palette” is linked to the HTML “canvas,” a web page “painting” is created. It is not the best analogy, but that is how I picture the relationship between HTML and CSS. Overall, CSS is an essential for designing web pages.</p>
+
+<h2 id="too-slow--tedious">Too Slow &amp; Tedious…</h2>
+
+<p>While working on the assignments using CSS, I noticed that creating customizations and alignments took a while for me, so I wondered, “Am I the problem? Do all web pages take this long to create?” For example, creating three columns of equal width involved implementing three different classes in the stylesheet for each column:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>.left {
+	float: left;
+	width: 300px;
+}
+
+.right {
+	float: right;
+	width: 300px;
+}
+
+.center {
+	margin-left: 300px;
+	margin-right: 300px;
+}
+</code></pre></div></div>
+<p>This process is disorganized, because I would have to memorize the column classes I created, and I would have to refer back to my stylesheet (I mainly used external CSS stylesheets) and constantly adjust or create a new column class with different margins. This is not the only tedious disadvantage; creating a navigation bar (navbar) is another example. I will not go into full detail with the navbar process but similar to columns, I implemented multiple classes in my stylesheet to design the layout of my navbar.</p>
+
+<h2 id="ui-frameworks-a-new-lifesaver">UI Frameworks: A New Lifesaver?</h2>
+
+<p>After learning the basics of UI design and going through the treacherous journey of creating stylesheets for different scenarios like 3-column layouts and navbars, I encountered a set of tools to lighten the weight of my journey, UI frameworks! UI frameworks are designed to relieve the workload and time of designing a web page by providing a ready-to-use CSS library. The first UI framework introduced to me was Bootstrap 5, which is one of the most widely and frequently used UI frameworks.</p>
+
+<h2 id="bootstrap-5-helpful-yet-difficult">Bootstrap 5: Helpful yet Difficult</h2>
+
+<p>Initially, I thought everything in Bootstrap was simply copy and paste, however, Bootstrap and other UI frameworks involve learning how and when to utilize their tools. Similar to learning a new language, I had to research the functions of each component, layout, utilities, etc. Honestly, despite completing the Bootstrap crash course and reviewing the material, I had a much harder time learning how to implement Bootstrap than implementing my own CSS. Moreover, I thought, “Bootstrap is supposed to make my life easier but why am I struggling so much? Is the problem me again?”</p>
+
+<p>Frustrated and confused, I continued to review and practice with Bootstrap. I admired Bootstrap’s navbar design the most, but I deeply struggled with the navbar – my nav-items did not align correctly, the spacing was off, I could not fit an image to size, etc. Once I got the hang of it, I started to enjoy and appreciate Bootstrap. For instance, referring back to columns, Bootstrap already has a built-in column feature – “col” – so no need to create a column design, yay! Moreover, I noticed how uniform and “cleaner” my web page looked compared to not using any UI framework.</p>
+
+<p>The examples below demonstrate a web page with Bootstrap (left) and a web page without any UI framework (right). Both web pages have the same components such as the navbar and columns but let’s take a look at the navbars. The navbar of the web page without UI framework looks simpler than the navbar of the web page using Bootstrap. However, in my experience, creating the “simple” navbar took twice as long as creating the Bootstrap navbar, and the Bootstrap navbar offers more items and sections.</p>
+
+<div class="text-center">
+<img width="400px" class="rounded pe-4" src="../img/bootstrapbrowserhist.png" />
+<img width="400px" class="rounded pe-4" src="../img/cssbrowserhist.png" />
+</div>
+
+<h2 id="but-wait-theres-more">But wait, there’s more!</h2>
+
+<p>Bootstrap is indeed difficult due to the amount of content. However, once I got through the learning barrier, Bootstrap became a useful tool for UI design, saving a good deal of time and providing a “skeleton” of a web page. Before learning about Bootstrap, I noticed my CSS appeared to lack a few characteristics and structures of a web page, so Bootstrap introduced me to more interesting features such as inserting icons and customizing buttons. Bootstrap is one of many UI frameworks, so I am really curious about how the other UI frameworks function such as Semantic UI. I noticed that Bootstrap and Semantic UI are evenly biased, so it’s up to personal preference. After fully understanding Bootstrap, I hope to learn Semantic UI for my next UI framework.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

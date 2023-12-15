@@ -1,0 +1,73 @@
+{
+  "basics": {
+    "name": "Catelyn Jochim",
+    "label": "Student",
+    "picture": "https://github.com/cjochim.png",
+    "email": "cjochim@hawaii.edu",
+    "phone": "",
+    "website": "https://cjochim.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "cjochim", "url": "http://github.com/cjochim" },
+      { "network": "linkedin", "username": "Catelyn Jochim", "url": "https://www.linkedin.com/in/catelyn-jochim-0b806928a" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "App Development" },
+    { "name": "Web Development" },
+    { "name": "Sustainability" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "HTML", "CSS", "Java", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub", "Windows" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "9Bar HNL",
+      "position": "Barista",
+      "website": "",
+      "startDate": "2022-07-01",
+      "endDate": "Present",
+      "summary": "I assist with day to operations in a fast-paced environment & interface with customers while maintaining the integrity of the business. In addition, I assist in managing and closing transactions.",
+      "highlights": [
+      ]
+    },
+  ],
+  "volunteer": [
+    {
+      "organization": "National Honors Society",
+      "website": "https://www.nationalhonorsociety.org/",
+      "position": "Treasurer",
+      "startDate": "2020",
+      "endDate": "2021",
+      "summary": "Manage fundraising transactions",
+      "highlights": [
+      ]
+    },
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
+
